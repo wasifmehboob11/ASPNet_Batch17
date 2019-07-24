@@ -1,0 +1,10 @@
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\bin\Debug\PNY.DesktopApp.WinUI.exe.config
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\bin\Debug\PNY.DesktopApp.WinUI.exe
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\bin\Debug\PNY.DesktopApp.WinUI.pdb
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\obj\Debug\PNY.DesktopApp.WinUI.csprojAssemblyReference.cache
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\obj\Debug\PNY.DesktopApp.WinUI.Properties.Resources.resources
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\obj\Debug\PNY.DesktopApp.WinUI.csproj.GenerateResource.cache
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\obj\Debug\PNY.DesktopApp.WinUI.csproj.CoreCompileInputs.cache
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\obj\Debug\PNY.DesktopApp.WinUI.exe
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\obj\Debug\PNY.DesktopApp.WinUI.pdb
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Class2\PNY.DesktopApp\PNY.DesktopApp.WinUI\obj\Debug\PNY.DesktopApp.WinUI.Welcome.resources
