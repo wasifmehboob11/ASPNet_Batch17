@@ -1,0 +1,11 @@
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\bin\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.deps.json
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\bin\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.runtimeconfig.json
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\bin\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.runtimeconfig.dev.json
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\bin\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.dll
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\bin\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.pdb
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\obj\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.csprojAssemblyReference.cache
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\obj\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.csproj.CoreCompileInputs.cache
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\obj\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.AssemblyInfoInputs.cache
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\obj\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.AssemblyInfo.cs
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\obj\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.dll
+E:\Jahanzeb\Batch17\PNY.ConsoleApp\PNY.ConsoleApp.Batch17\obj\Debug\netcoreapp2.1\PNY.ConsoleApp.Batch17.pdb
