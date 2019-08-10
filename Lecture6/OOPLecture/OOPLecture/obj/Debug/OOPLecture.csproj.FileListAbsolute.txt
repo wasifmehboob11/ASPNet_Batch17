@@ -1,0 +1,6 @@
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture6\OOPLecture\OOPLecture\obj\Debug\OOPLecture.csproj.CoreCompileInputs.cache
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture6\OOPLecture\OOPLecture\bin\Debug\OOPLecture.dll
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture6\OOPLecture\OOPLecture\bin\Debug\OOPLecture.pdb
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture6\OOPLecture\OOPLecture\obj\Debug\OOPLecture.dll
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture6\OOPLecture\OOPLecture\obj\Debug\OOPLecture.pdb
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture6\OOPLecture\OOPLecture\obj\Debug\OOPLecture.csprojAssemblyReference.cache
