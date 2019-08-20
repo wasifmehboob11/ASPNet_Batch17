@@ -1,0 +1,11 @@
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\bin\Debug\PNY.Batch17.DAL.dll
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\bin\Debug\PNY.Batch17.DAL.pdb
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\bin\Debug\PNY.Batch17.Common.dll
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\bin\Debug\PNY.Batch17.SalesDemo.dll
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\bin\Debug\PNY.Batch17.Common.pdb
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\bin\Debug\PNY.Batch17.SalesDemo.pdb
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\obj\Debug\PNY.Batch17.DAL.csprojAssemblyReference.cache
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\obj\Debug\PNY.Batch17.DAL.csproj.CoreCompileInputs.cache
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\obj\Debug\PNY.Batch17.DAL.csproj.CopyComplete
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\obj\Debug\PNY.Batch17.DAL.dll
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.DAL\obj\Debug\PNY.Batch17.DAL.pdb

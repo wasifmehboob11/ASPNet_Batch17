@@ -1,0 +1,5 @@
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.Application\bin\Debug\PNY.Batch17.Application.dll
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.Application\bin\Debug\PNY.Batch17.Application.pdb
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.Application\obj\Debug\PNY.Batch17.Application.csproj.CoreCompileInputs.cache
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.Application\obj\Debug\PNY.Batch17.Application.dll
+E:\Jahanzeb\Batch17\ASPNet_Batch17\Lecture7\PNY.Batch17\PNY.Batch17.Application\obj\Debug\PNY.Batch17.Application.pdb
